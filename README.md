@@ -11,16 +11,16 @@ Manages tasks - Use the command line
    This should output some information on the installed Python version.
    You can also install python by following these instructions: https://installpython3.com/
 
-2.Once you are done, you should be able to execute the task app by running the following command from the terminal.
+2. Once you are done, you should be able to execute the task app by running the following command from the terminal.
 
-   **On Windows:**
+    **On Windows:**
 
-   ```
-   .\task.bat
-   ```
+     ```
+     .\task.bat
+     ```
 
-   **On \*nix:**
+    **On \*nix:**
 
-   ```
-   ./task.sh
-   ```
+     ```
+     ./task.sh
+     ```

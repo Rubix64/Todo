@@ -117,3 +117,7 @@ Completed : 3
 2. another completed task
 3. yet another completed task
 ```
+
+> The app can be run in the console with `./task`.
+
+> Priority denotes how important a task is, if it is a high priority task, it should be completed earlier. Priority is denoted using an integer, the lower the number, the higher the priority. Priority can be any integer _greater than_ or _equal to_ 0. 0 being the highest priority
